@@ -1,4 +1,5 @@
 <h1>Blog posting site</h1>
+![Screenshot 2024-12-08 132450](https://github.com/user-attachments/assets/904c992d-b0bc-4f66-99b2-fb837bafe0ea)
 
 <h2>This project was made to display my skills with frontend and backend programming to construct a full stack web application.</h2>
 
