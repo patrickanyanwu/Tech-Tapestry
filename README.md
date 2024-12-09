@@ -1,5 +1,6 @@
 <h1>Blog Posting Site</h1>
 <img src="https://github.com/user-attachments/assets/295b4775-134e-473a-9251-1e1f9ed9b2a1">
+
 This project was made to display my skills with frontend and backend programming to construct a full stack web application.
 I used flask as the server for the site and css, bootstrap and javascript for the styling and responsivity of the website.
 <h3>Navigating the website</h3>
