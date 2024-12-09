@@ -3,7 +3,7 @@
 
 <h3>Navigating the website</h3>
 
-<p>Viewing posts:</p>
+<p>Viewing and commenting on posts:</p>
 
 https://github.com/user-attachments/assets/8fc0c637-bfd2-478c-8852-d9a2044a567b
 
