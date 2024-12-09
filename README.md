@@ -13,4 +13,4 @@ I used SQLite as my database and SQLAlchemy to create tables, read and write dat
 
 <h3>Running the file</h3>
 
-To run this file locally you will need to create a folder called "instance" so when the code is run a new empty database (with the tables) is automatically created in that folder, the first user to register is then the admin of the server and can make posts, delete posts and edit posts (only the admin can do so). Every other user can comment on post and their comment and name is displayed in the comment section.
+To run this file locally you will need to delete the current posts.db file so when the code is run a new empty database (with the tables) is automatically created in the "instance" folder, the first user to register is then the admin of the server and can make posts, delete posts and edit posts (only the admin can do so). Every other user can comment on post and their comment and name is displayed in the comment section.
