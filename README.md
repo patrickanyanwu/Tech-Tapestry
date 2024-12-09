@@ -8,7 +8,9 @@ I used flask as the server for the site and css, bootstrap and javascript for th
 <p>Viewing and commenting on posts:</p>
 
 https://github.com/user-attachments/assets/8fc0c637-bfd2-478c-8852-d9a2044a567b
-<p>When authenticated the delete button for posts will apppear beside the date the post was made</p>
+<p>When authenticated the delete button for posts will apppear beside the date the post was made and the create post button will appear above the older posts button:</p>
+<img src="https://github.com/user-attachments/assets/e7dfbe16-1152-4d74-98f7-f3f0fac96b31">
+
 <h3>User Authentication</h3>
 
 I used flask login authenticator to authenticate users, when a user registers their email and name is stored in the SQLite database and their password is hashed and salted using the werkzeug security package. When a user then wants to login using their username and password, the password is hashed and salted again then compared with the corresponding email's password in the database and if they match then the user is authenticated. Any user that is registered and logged in can then comment on posts. 
