@@ -4,9 +4,8 @@
 <h3>Navigating the website</h3>
 
 <p>Viewing posts:</p>
+
 https://github.com/user-attachments/assets/8fc0c637-bfd2-478c-8852-d9a2044a567b
-
-
 
 This project was made to display my skills with frontend and backend programming to construct a full stack web application.
 I used flask as the server for the site and css, bootstrap and javascript for the styling and responsivity of the website.
