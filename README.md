@@ -8,7 +8,7 @@ I used flask as the server for the site and css, bootstrap and javascript for th
 <p>Viewing and commenting on posts:</p>
 
 https://github.com/user-attachments/assets/8fc0c637-bfd2-478c-8852-d9a2044a567b
-<p>When authenticated the delete button for posts will apppear beside the date the post was made and the create post button will appear above the older posts button:</p>
+<p>When authenticated the delete button for posts will appear beside the date the post was made and the create post button will appear above the older posts button:</p>
 <img src="https://github.com/user-attachments/assets/47934fb5-7e59-4d64-a737-ddf002340ee8">
 
 
