@@ -209,7 +209,6 @@ def edit_post(post_id):
     return render_template("make-post.html", form=edit_form, is_edit=True, current_user=current_user)
 
 
-# Use a decorator so only an admin user can delete a post
 @app.route("/delete/<int:post_id>")
 @admin_only
 def delete_post(post_id):
