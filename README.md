@@ -9,7 +9,8 @@ I used flask as the server for the site and css, bootstrap and javascript for th
 
 https://github.com/user-attachments/assets/8fc0c637-bfd2-478c-8852-d9a2044a567b
 <p>When authenticated the delete button for posts will apppear beside the date the post was made and the create post button will appear above the older posts button:</p>
-<img src="https://github.com/user-attachments/assets/e7dfbe16-1152-4d74-98f7-f3f0fac96b31">
+<img src="https://github.com/user-attachments/assets/47934fb5-7e59-4d64-a737-ddf002340ee8">
+
 
 <h3>User Authentication</h3>
 
