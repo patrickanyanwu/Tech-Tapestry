@@ -1,14 +1,13 @@
 <h1>Blog Posting Site</h1>
 <img src="https://github.com/user-attachments/assets/295b4775-134e-473a-9251-1e1f9ed9b2a1">
-
+This project was made to display my skills with frontend and backend programming to construct a full stack web application.
+I used flask as the server for the site and css, bootstrap and javascript for the styling and responsivity of the website.
 <h3>Navigating the website</h3>
 
 <p>Viewing and commenting on posts:</p>
 
 https://github.com/user-attachments/assets/8fc0c637-bfd2-478c-8852-d9a2044a567b
 
-This project was made to display my skills with frontend and backend programming to construct a full stack web application.
-I used flask as the server for the site and css, bootstrap and javascript for the styling and responsivity of the website.
 <h3>User Authentication</h3>
 
 I used flask login authenticator to authenticate users, when a user registers their email and name is stored in the SQLite database and their password is hashed and salted using the werkzeug security package. When a user then wants to login using their username and password, the password is hashed and salted again then compared with the corresponding email's password in the database and if they match then the user is authenticated. Any user that is registered and logged in can then comment on posts. 
