@@ -19,7 +19,11 @@ I used flask login authenticator to authenticate users, when a user registers th
 
 <h3>Database</h3>
 
-I used SQLite as my database and SQLAlchemy to create tables, read and write data, forms are used to read data that is input by users and this data is then read and written into the database. The html files then write the data from the database through flask, SQLAlchemy. Database relationships were used to keep track of what users made comments on posts, what users made posts and all comments that are made on a post, One to many relationships was used to do this. I then used postgreSQL as my databse when putting this onto the web.
+I used SQLite as my database and SQLAlchemy to create tables, read and write data, forms are used to read data that is input by users and this data is then read and written into the database. The html files then write the data from the database through flask, SQLAlchemy. Database relationships were used to keep track of what users made comments on posts, what users made posts and all comments that are made on a post, One to many relationships was used to do this.
+
+<h3>Uploading the file to a host</h3>
+
+I used Render to host my flask server and made a postreSQL database to work with it. Gunicorn was used to point the host to the main.py 
 
 <h3>Running the file</h3>
 
