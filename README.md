@@ -1,4 +1,5 @@
 <h1>Blog Posting Site</h1>
+<a href="https://blog-posting-site.onrender.com/">Live website</a>
 <img src="https://github.com/user-attachments/assets/295b4775-134e-473a-9251-1e1f9ed9b2a1">
 
 This project was made to display my skills with frontend and backend programming to construct a full stack web application.
@@ -18,7 +19,7 @@ I used flask login authenticator to authenticate users, when a user registers th
 
 <h3>Database</h3>
 
-I used SQLite as my database and SQLAlchemy to create tables, read and write data, forms are used to read data that is input by users and this data is then read and written into the database. The html files then write the data from the database through flask, SQLAlchemy. Database relationships were used to keep track of what users made comments on posts, what users made posts and all comments that are made on a post, One to many relationships was used to do this.
+I used SQLite as my database and SQLAlchemy to create tables, read and write data, forms are used to read data that is input by users and this data is then read and written into the database. The html files then write the data from the database through flask, SQLAlchemy. Database relationships were used to keep track of what users made comments on posts, what users made posts and all comments that are made on a post, One to many relationships was used to do this. I then used postgreSQL as my databse when putting this onto the web.
 
 <h3>Running the file</h3>
 
