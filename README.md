@@ -25,7 +25,3 @@ I used SQLite as my database and SQLAlchemy to create tables, read and write dat
 <h3>Uploading the file to a host</h3>
 
 I used Render to host my flask server and made a postreSQL database to work with it. Gunicorn was used to point the host to the main.py as shown in the Procfile document.
-
-<h3>Running the file</h3>
-
-To run this file locally you will need to delete the current posts.db file so when the code is run a new empty database (with the tables) is automatically created in the "instance" folder, the first user to register is then the admin of the server and can make posts, delete posts and edit posts (only the admin can do so). Every other user can comment on post and their comment and name is displayed in the comment section. All packages named in the requirements.txt file will need to be installed locally.
