@@ -23,7 +23,7 @@ I used SQLite as my database and SQLAlchemy to create tables, read and write dat
 
 <h3>Uploading the file to a host</h3>
 
-I used Render to host my flask server and made a postreSQL database to work with it. Gunicorn was used to point the host to the main.py 
+I used Render to host my flask server and made a postreSQL database to work with it. Gunicorn was used to point the host to the main.py as shown in the Procfile document.
 
 <h3>Running the file</h3>
 
