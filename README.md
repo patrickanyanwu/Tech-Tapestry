@@ -1,5 +1,4 @@
 <h1 align="center">Blog Posting Site</h1>
-<a href="https://blog-posting-site.onrender.com/" target="_blank">Live website</a>
 
 <img src="https://github.com/user-attachments/assets/295b4775-134e-473a-9251-1e1f9ed9b2a1">
 
