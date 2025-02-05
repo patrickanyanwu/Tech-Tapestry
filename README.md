@@ -2,7 +2,7 @@
 
 <a href="https://blog-posting-site.onrender.com/">Live Website</a>
 
-<img src="https://github.com/user-attachments/assets/295b4775-134e-473a-9251-1e1f9ed9b2a1">
+<img src="https://github.com/user-attachments/assets/f652c670-ae8f-49e8-b141-2a078e88a0b2">
 
 This blog posting site project was made to display my skills with frontend and backend programming to construct a full stack web application.
 I used flask as the server for the site and css, bootstrap and javascript for the styling and responsivity of the website.
@@ -21,7 +21,7 @@ I used flask login authenticator to authenticate users, when a user registers th
 
 <h3>Database</h3>
 
-I used SQLite as my database and SQLAlchemy to create tables, read and write data, forms are used to read data that is input by users and this data is then read and written into the database. The html files then write the data from the database through flask, SQLAlchemy. Database relationships were used to keep track of what users made comments on posts, what users made posts and all comments that are made on a post, One to many relationships was used to do this.
+I used SQLite as my database and SQLAlchemy to hanfle CRUD operations such as create tables, reading and writing, updating and deleting data, forms are used to read data that is input by users and this data is then read and written into the database. The html files then write the data from the database through flask, SQLAlchemy. Database relationships were used to keep track of what users made comments on posts, what users made posts and all comments that are made on a post, One to many relationships was used to do this.
 
 <h3>Uploading the file to a host</h3>
 
