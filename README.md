@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/f652c670-ae8f-49e8-b141-2a078e88a0b2">
 
 This blog posting site project was made to display my skills with frontend and backend programming to construct a full stack web application.
-I used flask as the server for the site and css, bootstrap and javascript for the styling and responsivity of the website.
+I used flask as the server for the site and css, bootstrap and javascript for the styling and responsivity of the website. This project was made as part of my completion of Angela Yu's Python Course <a href="https://www.udemy.com/certificate/UC-345341ce-5be6-432e-8b5b-2301eac2b023/">100 Days of Code</a>
 <h3>Navigating the website</h3>
 
 <p>Viewing and commenting on posts:</p>
